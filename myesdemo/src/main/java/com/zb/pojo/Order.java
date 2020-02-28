@@ -15,7 +15,16 @@ public class Order implements Serializable {
     private Integer type_level3;
     private Integer goods_num;
     private String name;
+    //增加一个属性
+    private String haha;
 
+    public String getHaha() {
+        return haha;
+    }
+
+    public void setHaha(String haha) {
+        this.haha = haha;
+    }
 
     public Integer getId() {
         return id;
