@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="539110cf-51d0-4a45-a5b1-5c5eeca94a55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="my page" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHplbpMLomM2B66QGBlzCG3JKI" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/zb/config" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\software\idea\item\myesdemo\src\main\java\com\zb\config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyEsApp">
+    <configuration name="TestIndex.addDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="addDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.deleteDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="deleteDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.getDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="getDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIndex.updateDoc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myesdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zb" />
+      <option name="MAIN_CLASS_NAME" value="com.zb.TestIndex" />
+      <option name="METHOD_NAME" value="updateDoc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyEsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myesdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zb.MyEsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestIndex.deleteDoc" />
+        <item itemvalue="JUnit.TestIndex.updateDoc" />
+        <item itemvalue="JUnit.TestIndex.getDoc" />
+        <item itemvalue="JUnit.TestIndex.addDoc" />
+        <item itemvalue="JUnit.TestIndex.createIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="539110cf-51d0-4a45-a5b1-5c5eeca94a55" name="Default Changelist" comment="" />
+      <created>1582609526339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582609526339</updated>
+      <workItem from="1582609530636" duration="1565000" />
+      <workItem from="1582611103906" duration="145000" />
+      <workItem from="1582611252018" duration="5129000" />
+      <workItem from="1582707078376" duration="7897000" />
+      <workItem from="1582772497850" duration="15170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
