@@ -17,6 +17,10 @@ public class Order implements Serializable {
     private String name;
     //增加一个属性
     private String haha;
+
+    //组员2也修改了
+    private String zuyuan2;
+
     //组员1修改内容
     private String zuyuan1;
 
