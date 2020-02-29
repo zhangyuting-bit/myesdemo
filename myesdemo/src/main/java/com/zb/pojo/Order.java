@@ -22,6 +22,7 @@ public class Order implements Serializable {
     private String zuyuan2;
 
     //组员1修改内容
+    //组员1 2.29号再次修改代码
     private String zuyuan1;
 
     public String getHaha() {
