@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="539110cf-51d0-4a45-a5b1-5c5eeca94a55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myesdemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zb/pojo/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zb/pojo/Order.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zuyuan1/myesdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../idea/item/myshop.main" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -185,7 +182,7 @@
       <workItem from="1582611252018" duration="5129000" />
       <workItem from="1582707078376" duration="7897000" />
       <workItem from="1582772497850" duration="15170000" />
-      <workItem from="1582875132748" duration="1296000" />
+      <workItem from="1582875132748" duration="2589000" />
     </task>
     <task id="LOCAL-00001" summary="zyt_dev修改了Order实体类">
       <created>1582875326905</created>
@@ -194,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582875326905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="组员2修改了Order">
+      <created>1582878213110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582878213111</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +217,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zyt_dev修改了Order实体类" />
-    <option name="LAST_COMMIT_MESSAGE" value="zyt_dev修改了Order实体类" />
+    <MESSAGE value="组员2修改了Order" />
+    <option name="LAST_COMMIT_MESSAGE" value="组员2修改了Order" />
   </component>
 </project>
