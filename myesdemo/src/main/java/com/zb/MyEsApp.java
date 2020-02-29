@@ -19,6 +19,6 @@ public class MyEsApp {
             System.out.println(order);
             System.out.println(order.getId()+"\t"+order.getName()+"\t"+order.getTitle());
         }
-        //mc_dev今天修改了pojo类
+        //mc_dev今天修改了pojo类aaaaaaa
     }
 }
